@@ -54,7 +54,7 @@ Muestra las Estrellas, Repositorios, Contribuciones y Peticiones de Pull en tu p
 ![Mis Estadísticas](https://github-estadisticas-pixel.vercel.app/api/stats/[TU_USUARIO]?type=general)
 ```
 
-**Ejemlo:**
+**Ejemplo:**
 
 ![Mis Estadísticas](https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA?type=general)
 
